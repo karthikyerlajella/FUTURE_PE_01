@@ -1,0 +1,80 @@
+========================================
+AI WEBSITE COPY GENERATOR
+Martial Arts / Dojo Homepage Prompt System
+========================================
+
+PROMPT NAME:
+Dojo Homepage + Brand Color Generator
+
+OBJECTIVE:
+Generate a complete, conversion-focused homepage copy
+along with high-energy, action-oriented color palettes.
+
+----------------------------------------
+
+STRUCTURED PROMPT:
+
+Act as an expert conversion copywriter and brand designer specializing in fitness and martial arts businesses. 
+
+Create an energetic, modern, and conversion-focused homepage copy for:
+
+Business Name: Rising Dragon Academy
+Location: Visakhapatnam
+Business Type: Martial Arts Academy / Dojo
+Core Philosophy: "Strength. Discipline. Confidence. We don’t just teach martial arts — we build character."
+
+The homepage must include:
+
+1. Hero Section
+- Punchy Hero Headline
+- Short supporting sentence (Subtitle)
+- Clear CTA button text
+
+2. About / Philosophy Section
+- Energetic, motivational, and disciplined tone
+- Brief welcoming paragraph incorporating our core philosophy
+- Focus on building character, not just teaching punches and kicks
+
+3. Program Highlights (Services)
+- Kids’ Karate Classes (Focus on focus and respect)
+- Adult Self-Defense (Focus on safety and stress relief)
+- Fitness & Conditioning Programs (Focus on resilience and endurance)
+- Provide exactly 2-sentence persuasive descriptions for each
+
+4. Why Choose Us
+- 3 bullet points detailing why students/parents should choose our academy
+
+5. Student Testimonials 
+- 2 short, realistic testimonials (one from a parent, one from an adult student)
+
+6. CTA Section
+- Create a sense of urgency and empowerment
+- Mandatory phrase to include: "Join the academy today and unleash your potential."
+- Clickable CTA button text (e.g., Claim Your Free Trial Class)
+
+7. Footer Content
+- Location
+- Timings
+- Contact details
+
+----------------------------------------
+
+Additionally provide 3 modern color combinations suitable for a dojo.
+
+For each combination include:
+- Primary color (HEX)
+- Secondary color (HEX)
+- Accent color (HEX)
+- Background color
+- Text color
+- Best use (buttons/navbar/headings)
+
+Color Requirements:
+- Energetic, bold, and disciplined
+- Action-oriented (e.g., incorporating strong reds, deep blacks, crisp whites, or golds)
+- Modern and professional
+- High contrast
+- Mobile-friendly
+
+Tone:
+Energetic, motivational, disciplined. Keep paragraphs short (maximum 3 sentences). Speak directly to parents (for kids' classes) and adults looking to improve themselves.

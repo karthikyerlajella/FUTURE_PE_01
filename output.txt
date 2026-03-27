@@ -1,0 +1,122 @@
+========================================
+RISING DRAGON ACADEMY – HOMEPAGE COPY
+========================================
+
+HERO SECTION
+
+Headline:
+Empower Your Potential at Rising Dragon Academy
+
+Sub-headline:
+More Than Just Martial Arts—A Blueprint for Life.
+
+CTA Button:
+    Claim Your Free Trial Class
+    View Class Schedule
+
+----------------------------------------
+
+ABOUT SECTION
+
+Welcome to Rising Dragon Academy, where we believe true mastery starts from within. 
+Our core philosophy is simple: Strength, Discipline, and Confidence. 
+
+We don't just teach martial arts—we build character in every student who steps onto our mats. Join a community that values hard work, respect, and the relentless pursuit of self-improvement.
+
+----------------------------------------
+
+PROGRAM HIGHLIGHTS
+
+Kids’ Karate Classes
+Build a foundation of unwavering focus and deep-rooted respect that translates from the dojo to the classroom. Our program channels youthful energy into disciplined achievement, helping your child develop the character needed to stand tall against any challenge.
+
+Adult Self-Defense
+Master the practical skills and mental toughness required to protect yourself and your loved ones in any situation. This high-intensity training sharpens your situational awareness while acting as a powerful outlet for daily stress and anxiety.
+
+Fitness & Conditioning Programs
+Forge a body that is as resilient as your mind through rigorous, martial-arts-inspired functional training. We push you to break through plateaus and discover a level of physical endurance and mental grit you never knew you possessed.
+
+----------------------------------------
+
+WHY CHOOSE US
+
+✔ Elite Character Development
+✔ Practical, Real-World Self-Defense
+✔ A Culture of Excellence and Respect
+✔ Safe, Disciplined, and High-Energy Environment
+
+----------------------------------------
+
+CUSTOMER TESTIMONIALS
+
+“The discipline my son has learned here has completely transformed his focus in school. Best decision we made!”
+– Priya S. (Parent)
+
+“The adult self-defense classes pushed me past my limits. I’ve never felt more confident, fit, and prepared.”
+– Vikram R. (Adult Student)
+
+----------------------------------------
+
+CALL TO ACTION
+
+The Path to Mastery Starts With a Single Step.
+
+Your transformation begins the moment you decide to step onto the mat. 
+Join the academy today and unleash your potential.
+
+ Call Now: +91-9876543210
+ Claim Your Free Trial Class
+
+----------------------------------------
+
+FOOTER
+
+Rising Dragon Academy
+MVP Colony, Visakhapatnam
+Open Mon-Sat: 6:00 AM – 8:00 PM
+Phone: +91-9876543210
+Follow us on Instagram & Facebook
+
+========================================
+COLOR COMBINATIONS
+========================================
+
+1. The Classic Dojo Theme
+
+Primary: #1A1A1A (Deep Black)
+Secondary: #FFFFFF (Crisp White)
+Accent: #D32F2F (Bold Action Red)
+Background: #F5F5F5 (Light Ash)
+Text: #212121
+Best Use:
+Primary – Navbar & Headings
+Accent – CTA Buttons & Highlights
+Secondary – Sections & Cards
+
+----------------------------------------
+
+2. Disciplined Champion Theme
+
+Primary: #263238 (Dark Slate)
+Secondary: #ECEFF1 (Cool Gray)
+Accent: #FFC107 (Empowerment Gold)
+Background: #FFFFFF
+Text: #1C313A
+Best Use:
+Primary – Headers & Footer
+Accent – CTA Buttons
+Secondary – Background Sections
+
+----------------------------------------
+
+3. High-Energy Combat Theme
+
+Primary: #0D47A1 (Strong Navy Blue)
+Secondary: #E0E0E0 (Steel Gray)
+Accent: #FF5722 (Vibrant Orange)
+Background: #FAFAFA
+Text: #000000
+Best Use:
+Primary – Navbar & Bold Text
+Accent – Buttons & Important Alerts
+Secondary – Cards & Info Boxes
